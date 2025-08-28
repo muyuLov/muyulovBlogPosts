@@ -1,12 +1,12 @@
 ---
-title: Aliya-cosmos 项目开发情况报告
+title: Aliya-cosmos 项目开发情况
 published: 2025-08-29
 pinned: false
 description: Aliya-cosmos 是一个基于 Spring Boot 后端和 Vue.js 前端的 AI 聊天应用。该项目集成了 Ollama AI 服务和 Milvus 向量数据库，旨在提供智能对话和记忆管理功能。
 tags: [项目开发, spring Ai]
 category: 项目开发
 author: muyulov
-sourceLink: "https://github.com/muyuLov/muyulovBlogPosts/blob/main/"
+sourceLink: "https://github.com/muyuLov/muyulovBlogPosts/main/Aliya-cosmos-development"
 draft: false
 date: 2025-08-29
 image: './cover.jpg'
